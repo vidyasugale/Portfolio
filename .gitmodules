@@ -1,0 +1,3 @@
+[submodule "vidyas"]
+	path = vidyas
+	url = https://github.com/vidyasugale/Portfolio.git
